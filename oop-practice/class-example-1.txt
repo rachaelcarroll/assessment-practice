@@ -1,0 +1,13 @@
+Class Teacher
+
+Attributes
+homeAddress (string)
+yearsActive (integer)
+isOnStaff (boolean)
+classesTaught (array)
+
+Methods
+relocateHome (updates the homeAddress attribute)
+startSchoolYear (increases yearsActive attribute)
+quitJob (updates isOnStaff attribute)
+addSubject (updates the classesTaught attribute)
